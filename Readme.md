@@ -1,4 +1,4 @@
-# Projet Docker
+# Projet Docker (Dockerfile + docker compose à la racine du projet)
 
 Hello très chers étudiants,
 
